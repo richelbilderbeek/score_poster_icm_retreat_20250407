@@ -49,3 +49,8 @@ Recommended poster size is A0 (841 mm wide, 1189 mm tall) but you can also use A
 
 
 
+## Sources
+
+- [Logos](https://www.scilifelab.se/community-pages/resources/visual-identity/)
+
+
